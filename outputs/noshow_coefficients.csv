@@ -1,0 +1,12 @@
+feature,coef
+urgent,-0.8677
+specialty_Gastroenterology,-0.7074
+specialty_Orthopedics,-0.6631
+specialty_Primary care,-0.643
+specialty_Cardiology,-0.6056
+specialty_Neurology,-0.5817
+specialty_Endocrinology,-0.5748
+specialty_Dermatology,-0.527
+prior_no_shows,0.4391
+wait_days,0.0144
+age,-0.0118

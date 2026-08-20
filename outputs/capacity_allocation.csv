@@ -1,0 +1,27 @@
+unit,specialty,clinic_id,demand,eff_cap,util,wait,slots_added_at_plus10,share_of_new_capacity,wait_after,wait_reduction_days,redistribution_delta
+Primary care @ CLN-01,Primary care,CLN-01,578.0538,654.1461,0.8837,23.7223,101.2,30.0,18.58,5.14,50.6
+Orthopedics @ CLN-01,Orthopedics,CLN-01,155.2077,163.9087,0.9469,24.5723,42.2,12.5,7.04,17.53,25.3
+Cardiology @ CLN-03,Cardiology,CLN-03,115.9385,129.3046,0.8966,19.4177,25.3,7.5,12.69,6.73,16.9
+Orthopedics @ CLN-02,Orthopedics,CLN-02,81.6154,85.6087,0.9534,31.9538,25.3,7.5,11.03,20.92,16.9
+Behavioral health @ CLN-03,Behavioral health,CLN-03,82.3538,86.5565,0.9514,27.3915,25.3,7.5,7.47,19.92,16.9
+Cardiology @ CLN-04,Cardiology,CLN-04,112.2846,129.988,0.8638,18.9608,16.9,5.0,15.29,3.67,8.4
+Dermatology @ CLN-03,Dermatology,CLN-03,100.0923,110.3086,0.9074,26.0585,16.9,5.0,18.83,7.23,8.4
+Gastroenterology @ CLN-01,Gastroenterology,CLN-01,73.5154,76.9534,0.9553,31.6646,16.9,5.0,10.61,21.05,16.9
+Dermatology @ CLN-01,Dermatology,CLN-01,124.1769,155.9409,0.7963,12.8692,8.4,2.5,11.9,0.97,0.0
+Behavioral health @ CLN-02,Behavioral health,CLN-02,61.7923,76.8804,0.8037,4.8108,8.4,2.5,3.07,1.74,0.0
+Primary care @ CLN-04,Primary care,CLN-04,198.9,256.0048,0.7769,11.5031,8.4,2.5,10.97,0.53,-16.9
+Orthopedics @ CLN-04,Orthopedics,CLN-04,32.5308,39.1607,0.8307,13.3777,8.4,2.5,10.12,3.26,0.0
+Neurology @ CLN-03,Neurology,CLN-03,81.6846,95.5307,0.8551,18.0438,8.4,2.5,15.4,2.65,8.4
+Cardiology @ CLN-01,Cardiology,CLN-01,38.4077,43.2463,0.8881,18.6623,8.4,2.5,12.68,5.98,8.4
+Behavioral health @ CLN-04,Behavioral health,CLN-04,33.0769,37.9125,0.8725,13.3477,8.4,2.5,8.19,5.15,0.0
+Neurology @ CLN-04,Neurology,CLN-04,56.5462,63.1215,0.8958,15.3169,8.4,2.5,9.59,5.73,8.4
+Behavioral health @ CLN-01,Behavioral health,CLN-01,49.7231,75.5458,0.6582,4.2538,0.0,0.0,4.25,-0.0,-16.9
+Cardiology @ CLN-02,Cardiology,CLN-02,63.8846,87.22,0.7325,3.8654,0.0,0.0,3.87,-0.0,-8.4
+Dermatology @ CLN-02,Dermatology,CLN-02,34.2615,53.0326,0.646,6.5723,0.0,0.0,6.57,-0.0,-8.4
+Gastroenterology @ CLN-04,Gastroenterology,CLN-04,63.6,108.193,0.5878,2.0469,0.0,0.0,2.05,-0.0,-33.7
+Endocrinology @ CLN-01,Endocrinology,CLN-01,24.2308,34.1083,0.7104,4.3208,0.0,0.0,4.32,-0.0,0.0
+Endocrinology @ CLN-02,Endocrinology,CLN-02,76.6769,103.2525,0.7426,7.0123,0.0,0.0,7.01,-0.0,-8.4
+Gastroenterology @ CLN-03,Gastroenterology,CLN-03,27.6462,35.9106,0.7699,5.2577,0.0,0.0,5.26,-0.0,0.0
+Orthopedics @ CLN-03,Orthopedics,CLN-03,108.7462,154.4133,0.7043,3.7615,0.0,0.0,3.76,-0.0,-25.3
+Primary care @ CLN-02,Primary care,CLN-02,192.0846,259.8007,0.7394,5.7523,0.0,0.0,5.75,-0.0,-25.3
+Primary care @ CLN-03,Primary care,CLN-03,178.3462,258.9346,0.6888,4.0969,0.0,0.0,4.1,-0.0,-42.2

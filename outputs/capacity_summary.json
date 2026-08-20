@@ -1,0 +1,30 @@
+{
+  "base_wait_days": 43670.0,
+  "total_capacity": 3375.0,
+  "beta": 1.1853,
+  "redistribution": {
+    "slots_moved": 185.6,
+    "pct_of_system": 5.5,
+    "wait_days": 34712.0,
+    "pct_vs_base": -20.51,
+    "mean_wait": 12.64,
+    "units_over_standard": 4,
+    "equivalent_capacity_increase_pct": 4.07
+  },
+  "gap_to_standard": {
+    "extra_capacity_needed": 151.9,
+    "pct_of_system": 4.5,
+    "providers_equivalent": 3.2,
+    "reachable_units_within_standard": true,
+    "structurally_unreachable_units": 2,
+    "structurally_unreachable_names": [
+      "Dermatology @ CLN-03",
+      "Primary care @ CLN-01"
+    ],
+    "structural_floor_days": [
+      14.4,
+      14.7
+    ],
+    "patients_affected_structural": 678
+  }
+}

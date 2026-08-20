@@ -1,0 +1,2 @@
+train_r2,holdout_r2,holdout_mae_days,holdout_mean_wait,beta_pressure,beta_se,train_weeks,holdout_weeks
+0.8838,0.9293,2.34,13.79,1.1853,0.0138,65,13

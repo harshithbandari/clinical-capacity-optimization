@@ -1,0 +1,6 @@
+scenario,step,wait_days_optimised,wait_days_prorata,mean_wait_opt,mean_wait_prorata,pct_vs_base_opt,pct_vs_base_prorata,units_over_standard_opt,units_over_standard_prorata,patients_over_standard_opt,optimiser_advantage_wait_days
++0% capacity,0.0,43670.0,43670.0,15.91,15.91,0.0,0.0,11,11,1475,0.0
++5% capacity,0.05,32658.0,35272.0,11.9,12.85,-25.22,-19.23,5,10,988,2614.0
++10% capacity,0.1,29786.0,31616.0,10.85,11.52,-31.79,-27.6,4,8,872,1831.0
++15% capacity,0.15,28180.0,29469.0,10.26,10.73,-35.47,-32.52,4,4,872,1289.0
++20% capacity,0.2,27103.0,28031.0,9.87,10.21,-37.94,-35.81,3,3,790,928.0

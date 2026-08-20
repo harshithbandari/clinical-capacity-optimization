@@ -1,0 +1,5 @@
+model,r2,adj_r2,aic,n
+M1 utilisation only,0.4894,0.4891,16516.2521,1950
+M2 + specialty & clinic FE,0.5852,0.5828,16131.0199,1950
+M3 queueing term + FE,0.8532,0.8523,14105.6217,1950
+M4 + no-show & cancel rates,0.8533,0.8523,14107.7197,1950

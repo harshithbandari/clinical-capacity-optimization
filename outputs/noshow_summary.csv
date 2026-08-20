@@ -1,0 +1,2 @@
+roc_auc,threshold,recall,precision,base_rate,fe_only_r2,util_only_r2,combined_r2
+0.6841,0.5415,0.5016,0.2668,0.1506,0.2364,0.8281,0.8532
