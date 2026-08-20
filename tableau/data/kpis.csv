@@ -1,0 +1,9 @@
+kpi,value,unit,sort
+Mean wait (today),15.91,days,1
+Units over standard,11.0,count,2
+Patients over standard,1475.0,count,3
+Mean utilisation,80.99,pct,4
+Wait-days per week,43670.0,count,5
+Slots moved (redistribution),5.5,pct,6
+Wait-day cut from redistribution,20.51,pct,7
+Equivalent capacity increase,4.07,pct,8

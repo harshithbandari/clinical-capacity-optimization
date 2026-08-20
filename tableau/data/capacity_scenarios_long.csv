@@ -1,0 +1,11 @@
+scenario,capacity_step_pct,allocation,mean_wait_days,wait_days_total,units_over_standard
++0% capacity,0.0,Optimised allocation,15.91,43670.0,11
++0% capacity,0.0,Pro-rata (uniform),15.91,43670.0,11
++5% capacity,5.0,Optimised allocation,11.9,32658.0,5
++5% capacity,5.0,Pro-rata (uniform),12.85,35272.0,10
++10% capacity,10.0,Optimised allocation,10.85,29786.0,4
++10% capacity,10.0,Pro-rata (uniform),11.52,31616.0,8
++15% capacity,15.0,Optimised allocation,10.26,28180.0,4
++15% capacity,15.0,Pro-rata (uniform),10.73,29469.0,4
++20% capacity,20.0,Optimised allocation,9.87,27103.0,3
++20% capacity,20.0,Pro-rata (uniform),10.21,28031.0,3
