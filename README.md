@@ -30,8 +30,10 @@ term explains R² 0.489 of the variation; replacing it with the queueing transfo
 same single variable, transformed — takes that to 0.853. Specialty and site fixed effects alone explain
 only 23.6%. In this simulated system access is a **capacity** problem, not a site-culture problem.
 
-A no-show model converts booked slots into *effective* capacity: roughly **7% of the modeled
-schedule evaporates** before a patient is seen. The resulting capacity→wait curve was fitted on the
+A no-show model converts booked slots into *effective* capacity: **7.15% of the modeled schedule
+evaporates** before a patient is seen (3,635 booked slots/week → 3,375 effective). Note this is
+*lower* than the 15.06% no-show rate, because overbooking recovers part of each no-show slot and
+most cancellations that arrive early enough get refilled — the two figures are not interchangeable. The resulting capacity→wait curve was fitted on the
 first 65 weeks and validated on a held-out 13 (R² 0.929, MAE 2.34 days), so the simulator rests on a learned
 relationship rather than an assumed one.
 
@@ -125,7 +127,7 @@ with **4.5%** more capacity — modeled as about **3.2 providers**.
    the optimised allocation saves 2,614 more wait-days per week for identical spend.
 3. **Send Dermatology @ CLN-03, Primary care @ CLN-01 to template redesign, not to recruitment.** No modeled
    capacity level brings them inside the standard.
-4. **Treat no-shows as a capacity lever.** ~7% of the schedule is lost before a patient arrives;
+4. **Treat no-shows as a capacity lever.** 7.15% of the schedule is lost before a patient arrives;
    recovering part of that is cheaper than buying slots.
 
 ## Validation
